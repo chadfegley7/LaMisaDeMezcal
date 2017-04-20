@@ -11,6 +11,7 @@ h1{
 
 #infoContainer{
   margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 #infoContainer p{
@@ -21,7 +22,6 @@ h1{
 #steveContainer{
   margin-top: 50px;
   margin-bottom: 50px;
-  border: 3px solid white;
   display: inline-block;
 }
 
@@ -60,7 +60,6 @@ h1{
   margin-top: 50px;
   margin-bottom: 100px;
   display: inline-block;
-  border: 3px solid white;
 }
 
 #otherPic{
