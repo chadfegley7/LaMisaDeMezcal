@@ -1,0 +1,10 @@
+body{
+  background-color: black;
+}
+
+h1{
+  font-family: "Phosphate";
+  font-size: 120px;
+  color: orange;
+  text-align: center;
+}

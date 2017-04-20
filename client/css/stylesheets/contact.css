@@ -1,0 +1,94 @@
+body{
+  background-color: black;
+}
+
+h1{
+  font-family: "Phosphate";
+  font-size: 120px;
+  color: orange;
+  text-align: center;
+}
+
+#infoContainer{
+  margin-top: 50px;
+}
+
+#infoContainer p{
+  font-size: 30px;
+  color: white;
+}
+
+#steveContainer{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border: 3px solid white;
+  display: inline-block;
+}
+
+#steveContainer h2{
+  font-family: "Phosphate";
+  font-size: 60px;
+  color: orange;
+  text-align: left;
+}
+
+#stevePic{
+  background-image: url("../pics_videos/default.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border: 3px solid white;
+  height: 250px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  display: inline-block;
+}
+
+#steveInfo{
+  height: 250px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  display: inline-block;
+}
+
+#steveInfo p{
+  font-size: 30px;
+  color: white;
+}
+
+#otherContainer{
+  margin-top: 50px;
+  margin-bottom: 100px;
+  display: inline-block;
+  border: 3px solid white;
+}
+
+#otherPic{
+  background-image: url("../pics_videos/default.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border: 3px solid white;
+  height: 250px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  display: inline-block;
+}
+
+#otherInfo{
+  height: 250px;
+  margin-top: 25px;
+  display: inline-block;
+}
+
+#otherInfo h2{
+  font-family: "Phosphate";
+  font-size: 60px;
+  color: orange;
+  text-align: right;
+}
+
+#otherInfo p{
+  font-size: 30px;
+  color: white;
+}

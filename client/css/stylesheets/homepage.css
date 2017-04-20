@@ -1,0 +1,96 @@
+h1{
+  font-family: "Phosphate";
+  font-size: 120px;
+  color: orange;
+  text-align: center;
+}
+h3{
+  color: yellow;
+  font-size: 32px;
+  text-align: center;
+}
+body{
+  background-color: black;
+}
+
+#main{
+  background-image: url("../pics_videos/mezcalpour.jpg");
+  min-height: 1100px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 100px;
+  border-bottom: 5px solid white;
+}
+
+#bodyTwo{
+  background-color: black;
+  border: 5px solid white;
+}
+
+#bodyThree{
+  background-color: black;
+  border: 5px solid white;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#bodyFour{
+  background-color: black;
+  border: 5px solid white;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#bodyFive{
+  background-color: black;
+  border: 5px solid white;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+#firstHeader{
+  font-family: "Phosphate";
+  font-size: 80px;
+  color: orange;
+  text-align: left;
+  padding-left: 25px;
+}
+
+#mezcalInfo{
+  font-size: 30px;
+  color: white;
+  padding: 25px;
+  display: inline-block;
+}
+
+#agavePic{
+  background-image: url("../pics_videos/chopping.jpg");
+  background-size: cover;
+  display: inline-block;
+  height: 425px;
+  margin: 5% 0 5% 0;
+}
+
+#cocktail{
+  background-image: url("../pics_videos/mezcalCocktail.jpg");
+  background-size: cover;
+  display: inline-block;
+  height: 425px;
+  margin: 5% 0 5% 0;
+}
+
+#newsPic{
+  background-image: url("../pics_videos/dad.jpg");
+  background-size: cover;
+  display: inline-block;
+  height: 425px;
+  margin: 5% 0 5% 0;
+}
+
+p{
+  font-size: 60px;
+  color: white;
+  padding: 25px;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "lsmisademezcal",
+  "description": "La Misa De Mezcal Website",
+  "main": "server.js",
+  "authors": [
+    "Chad Fegley"
+  ],
+  "license": "ISC",
+  "homepage": "localhost:8000",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "bootstrap": "^3.3.7",
+    "angular-ui-router": "^0.4.2",
+    "hammerjs": "^2.0.8"
+  }
+}
